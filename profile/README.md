@@ -1,5 +1,4 @@
-<img src="./Realistic3D.png" height="100">
-<img src="./Mid_Sweden_University_Logo.svg.png" height="100">
+<img src="./Realistic3D.png" height="100"><img src="./Mid_Sweden_University_Logo.svg.png" height="100">
 
 # Realistic 3D
 The research at Realistic 3D is on Multidimensional Imaging and Visualization with focus on Multiscopic 3D Capture, Coding and Visualization.
