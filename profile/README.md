@@ -17,8 +17,10 @@ We pursue research, and related education, in the fields of multimedia communica
 Read more about our research work [here](https://www.miun.se/en/Research/researchgroups/realistic-3d/)
 
 ## Recent Publications
-* [LFSphereNet](https://realistic3d-miun.github.io/Research/LFSphereNet/LFSphereNet.html)
+* [RT-MPINet](https://realistic3d-miun.github.io/Research/RT_MPINet/index.html)
+* [VISTA-Q-ToolKit](https://realistic3d-miun.github.io/Research/VISTA_Q_ToolKit/index.html)
 * [SLFDB](https://realistic3d-miun.github.io/Research/SLFDB/SLFDB.html)
+* [LFSphereNet](https://realistic3d-miun.github.io/Research/LFSphereNet/LFSphereNet.html)
 
 
 
