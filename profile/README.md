@@ -17,6 +17,7 @@ We pursue research, and related education, in the fields of multimedia communica
 Read more about our research work [here](https://www.miun.se/en/Research/researchgroups/realistic-3d/)
 
 ## Recent Publications
+* [(2026) PVSDNet : Joint Depth Prediction and View Synthesis via Shared Latent Spaces in Real-Time](https://realistic3d-miun.github.io/PVSDNet/)
 * [(2025) RT-MPINet : Real-Time View Synthesis with Multiplane Image Network using Multimodal Supervision](https://realistic3d-miun.github.io/Research/RT_MPINet/index.html)
 * [(2025) VISTA-Q-ToolKit: A Visual Quality of Experience Toolkit for Realistic Immersive Telepresence Applications](https://realistic3d-miun.github.io/Research/VISTA_Q_ToolKit/index.html)
 * [(2024) SLFDB: A Spherical Light Field Database for Immersive Telecommunication and Telepresence Applications](https://realistic3d-miun.github.io/Research/SLFDB/SLFDB.html)
